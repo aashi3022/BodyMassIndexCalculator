@@ -34,7 +34,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/Kritgoel/BodyMassIndexCalculator.git
+git clone https://github.com/aashi3022/BodyMassIndexCalculator.git
 
 Navigate to the project directory:
 
